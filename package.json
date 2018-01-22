@@ -1,0 +1,22 @@
+{
+  "name": "charsortinator",
+  "version": "1.0.0",
+  "description": "A tiny full-stack Node application that sorts the characters in a given string",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylangood/CharSortinator.git"
+  },
+  "author": "Dylan Gould",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylangood/CharSortinator/issues"
+  },
+  "homepage": "https://github.com/dylangood/CharSortinator#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0"
+  }
+}
